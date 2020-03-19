@@ -1,6 +1,9 @@
 # IRC Communication system project for Computer Networks2 subject
 
-All information about project were written in Sprawozdanie.pdf file. Apologise for inconvenience solution.
+This application allows to communicate between users connected to the same network using the TCP protocol.
+Users join to selected room and send messages between each other.
+
+More information about project were written in Sprawozdanie.pdf file. Apologise for inconvenience solution.
 
 
 <a href="https://github.com/BartekPrz/SK2-Projekt/blob/master/Sprawozdanie.pdf">Sprawozdanie.pdf</a>
